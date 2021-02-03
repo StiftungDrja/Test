@@ -4,11 +4,7 @@
 
 Becoming a super hero is a fairly straight forward process:
 
-\[comment\]:&lt;&gt; test
-
-```text
-[comment]: <> (This is a comment, it will not be included)
-```
+&lt;div&gt;&lt;/div&gt;
 
 ```
 $ give me super-powers
