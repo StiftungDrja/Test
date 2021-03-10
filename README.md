@@ -2,9 +2,7 @@
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
-
-
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)\[!\[Foo\]\(http:www.google.com\)
 
 ```
 $ give me super-powers
