@@ -2,7 +2,9 @@
 
 ## Getting Super Powers
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)\[!\[Foo\]\(http:www.google.com\)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 ```
 $ give me super-powers
