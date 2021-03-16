@@ -6,6 +6,8 @@
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
+![](.gitbook/assets/svg-grundelemente.svg)
+
 ```
 $ give me super-powers
 ```
